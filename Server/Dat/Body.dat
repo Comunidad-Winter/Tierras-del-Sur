@@ -1,0 +1,419 @@
+[INIT]
+NumBodies=53
+
+[Body1] 'HUMANO CIVIL
+Walk1=4582
+Walk2=4584
+Walk3=4581
+Walk4=4583
+HeadOffsetY=-38
+HeadOffsetX=0
+
+
+[Body2] 'ELFO CIVIL
+Walk1=4586
+Walk2=4588
+Walk3=4585
+Walk4=4587
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body3] 'ELFO OSCURO CIVIL
+Walk1=4590
+Walk2=4592
+Walk3=4589
+Walk4=4591
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body4] 'Governador de Ullathorpe
+Walk1=4574
+Walk2=4576
+Walk3=4573
+Walk4=4575
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body5] 'Gallo
+Walk1=4517
+Walk2=4519
+Walk3=4516
+Walk4=4518
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body6] 'Cerdo
+Walk1=4521
+Walk2=4523
+Walk3=4520
+Walk4=4522
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body7] 'Vaca
+Walk1=4525
+Walk2=4527
+Walk3=4524
+Walk4=4526
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body8] 'Espiritu
+Walk1=4529
+Walk2=4531
+Walk3=4528
+Walk4=4530
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body9] 'Murcielago
+Walk1=4533
+Walk2=4535
+Walk3=4532
+Walk4=4534
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body10] 'Lobo
+Walk1=4537
+Walk2=4539
+Walk3=4536
+Walk4=4538
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body11] 'Zombie
+Walk1=4541
+Walk2=4543
+Walk3=4540
+Walk4=4542
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body12] 'Esqueleto
+Walk1=4545
+Walk2=4547
+Walk3=4544
+Walk4=4546
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body13] ' Serpiente cobra
+Walk1=4549
+Walk2=4551
+Walk3=4548
+Walk4=4550
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body14] ' Goblin
+Walk1=4553
+Walk2=4555
+Walk3=4552
+Walk4=4554
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body15] ' GUARDUA HUMANO IMPERIAL
+Walk1=4557
+Walk2=4559
+Walk3=4556
+Walk4=4558
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body16] ' HERRERO HUMANO
+Walk1=4561
+Walk2=4563
+Walk3=4560
+Walk4=4562
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body17] ' BARDO
+Walk1=4564
+Walk2=4564
+Walk3=4564
+Walk4=4564
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body18] ' ALDEANO MARACA
+Walk1=4566
+Walk2=4568
+Walk3=4565
+Walk4=4567
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body19] ' ALDEANA TROLA
+Walk1=4570
+Walk2=4572
+Walk3=4569
+Walk4=4571
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body20] ' GOBERNADOR ULLATHORPE
+Walk1=4574
+Walk2=4576
+Walk3=4573
+Walk4=4575
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body21] ' HOMBRE DESNUDO
+Walk1=4594
+Walk2=4596
+Walk3=4593
+Walk4=4595
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body22] ' ARMADURA CUERO RAZA GRANDE
+Walk1=4578
+Walk2=4580
+Walk3=4577
+Walk4=4579
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body23] ' ROPA CLAN RAZA GRANDE
+Walk1=4602
+Walk2=4604
+Walk3=4601
+Walk4=4603
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body24] ' ARBOL 1
+Walk1=7001
+Walk2=7001
+Walk3=7001
+Walk4=7001
+
+[Body25] ' ARBOL de jungla
+Walk1=7002
+Walk2=7002
+Walk3=7002
+Walk4=7002
+
+[Body26] ' ARBOL
+Walk1=7000
+Walk2=7000
+Walk3=7000
+Walk4=7000
+
+[Body27] ' ARBOL
+Walk1=7222
+Walk2=7222
+Walk3=7222
+Walk4=7222
+
+
+[Body28] ' ARBOL
+Walk1=7223
+Walk2=7223
+Walk3=7223
+Walk4=7223
+
+[Body29] ' ARBOL
+Walk1=7224
+Walk2=7224
+Walk3=7224
+Walk4=7224
+
+[Body30] ' ARBOL
+Walk1=7225
+Walk2=7225
+Walk3=7225
+Walk4=7225
+
+[Body31] ' ARBOL
+Walk1=7226
+Walk2=7226
+Walk3=7226
+Walk4=7226
+
+
+[Body32] ' ELFO OSCURO PELOTAS
+Walk1=4606
+Walk2=4608
+Walk3=4605
+Walk4=4607
+HeadOffsetY=-38
+HeadOffsetX=0
+
+
+[Body33] ' Tabernero
+Walk1=4610
+Walk2=4612
+Walk3=4609
+Walk4=4611
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body34] ' Hechizera
+Walk1=4614
+Walk2=4616
+Walk3=4613
+Walk4=4615
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body35] ' ROPA CLAN RAZA GRANDE
+Walk1=4618
+Walk2=4620
+Walk3=4617
+Walk4=4619
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body36] ' ROPA CLAN RAZA GRANDE
+Walk1=4618
+Walk2=4620
+Walk3=4617
+Walk4=4619
+HeadOffsetY=-38
+HeadOffsetX=0
+
+
+[Body37] ' BANQUERO
+Walk1=4622
+Walk2=4624
+Walk3=4621
+Walk4=4623
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body38] ' TUNICA
+Walk1=4626
+Walk2=4628
+Walk3=4625
+Walk4=4627
+HeadOffsetY=-38
+HeadOffsetX=0
+
+
+[Body39] 'Mina blanca ropa sensual
+Walk1=4630
+Walk2=4632
+Walk3=4629
+Walk4=4631
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body40] 'Mina morena ropa sensual
+Walk1=4634
+Walk2=4636
+Walk3=4633
+Walk4=4635
+HeadOffsetY=-38
+HeadOffsetX=0
+
+
+[Body41] 'Dragon
+Walk1=4638
+Walk2=4640
+Walk3=4637
+Walk4=4639
+
+[Body42] 'Araña Gigante
+Walk1=4642
+Walk2=4644
+Walk3=4641
+Walk4=4643
+
+[Body43] 'Orco
+Walk1=4646
+Walk2=4648
+Walk3=4645
+Walk4=4647
+
+[Body44] 'Mina blanca ropa verde
+Walk1=4650
+Walk2=4652
+Walk3=4649
+Walk4=4651
+HeadOffsetY=-38
+HeadOffsetX=0
+
+
+[Body45] ' Armadura de placas
+Walk1=4654
+Walk2=4656
+Walk3=4653
+Walk4=4655
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body46] ' Tunica mago
+Walk1=4658
+Walk2=4660
+Walk3=4657
+Walk4=4659
+HeadOffsetY=-38
+HeadOffsetX=0
+
+
+[Body47] ' Croto
+Walk1=4662
+Walk2=4669
+Walk3=4661
+Walk4=4663
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body48] ' Caballero malvado
+Walk1=4671
+Walk2=4673
+Walk3=4670
+Walk4=4672
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body49] ' Túnica azúl
+Walk1=4675
+Walk2=4677
+Walk3=4674
+Walk4=4676
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body50] ' Túnica roja
+Walk1=4679
+Walk2=4681
+Walk3=4678
+Walk4=4680
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body51] ' Escorpión
+Walk1=4683
+Walk2=4685
+Walk3=4682
+Walk4=4684
+HeadOffsetY=-38
+HeadOffsetX=0
+
+[Body52] ' Vestimentas comunes enano
+Walk1=4687
+Walk2=4689
+Walk3=4686
+Walk4=4688
+HeadOffsetY=-28
+HeadOffsetX=0
+
+[Body53] ' Enano desnudo
+Walk1=4691
+Walk2=4693
+Walk3=4690
+Walk4=4692
+HeadOffsetY=-28
+HeadOffsetX=0
+
+
+
+
+
+

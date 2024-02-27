@@ -1,0 +1,27 @@
+[INIT]
+NumeroCofres=3
+
+[COFRE1] 'Cofre de Hierro
+NroObjetos= 5
+Obj1=129-1-20 'Dos filos
+Obj2=365-1-40 'Daga +2
+Obj3=3-1-60 'Hacha Orca
+Obj4=9-1-80 'Horquilla
+Obj5=37-1-100 'Pota Azul
+
+[COFRE2] 'Cofre de Plata
+NroObjetos= 5
+Obj1=390-1-20 'Armadura de Placas completa +1
+Obj2=403-1-40 'Espada de Plata
+Obj3=405-1-60 'Casco de Plata
+Obj4=646-1-80 'Anillo Diso
+Obj5=38-1-100 'Pota Roja
+
+[COFRE3] 'Cofre de Oro
+NroObjetos= 5
+Obj1=402-1-20 'Espada Mata Dragones
+Obj2=485-1-40 'Armadura Legendaria
+Obj3=357-1-60 'Tunica de Druida
+Obj4=615-1-80 'Tunica Legendaria 
+Obj5=133-1-100 'Escudo Imperial
+

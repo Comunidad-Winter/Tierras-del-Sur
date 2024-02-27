@@ -1,0 +1,14 @@
+[INIT]
+NumeroPasajes=2
+
+[PASAJE1] 'Pasaje a Ullathorpe
+X=127
+Y=128
+MAPA=128
+CONTINENTE=0
+
+[PASAJE2] 'Pasaje a Nix
+X=92
+Y=107
+MAPA=299
+CONTINENTE=0

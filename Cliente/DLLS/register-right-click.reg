@@ -1,0 +1,34 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\dllfile\Shell]
+@="Register"
+
+[HKEY_CLASSES_ROOT\dllfile\Shell\Register]
+
+[HKEY_CLASSES_ROOT\dllfile\Shell\Register\command]
+@="regsvr32.exe %1"
+
+[HKEY_CLASSES_ROOT\dllfile\Shell\Unregister]
+
+[HKEY_CLASSES_ROOT\dllfile\Shell\Unregister\command]
+@="regsvr32.exe /u %1"
+
+[HKEY_CLASSES_ROOT\.ocx]
+@="ocxfile"
+
+[HKEY_CLASSES_ROOT\ocxfile]
+@="OCX File"
+"EditFlags"=hex:00,00,01,00
+
+[HKEY_CLASSES_ROOT\ocxfile\Shell]
+@="Register"
+
+[HKEY_CLASSES_ROOT\ocxfile\Shell\Register]
+
+[HKEY_CLASSES_ROOT\ocxfile\Shell\Register\command]
+@="regsvr32.exe %1"
+
+[HKEY_CLASSES_ROOT\ocxfile\Shell\Unregister]
+
+[HKEY_CLASSES_ROOT\ocxfile\Shell\Unregister\command]
+@="regsvr32.exe /u %1"

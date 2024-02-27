@@ -1,0 +1,1671 @@
+388;227;5;9;5;16;22;5;4;3;971;15;
+!No has logrado esconderte!~65~190~156~0~0
+Ya estás oculto.~65~190~156~0~0
+¡Estás muerto!.~65~190~156~0~0
+Primero tienes que seleccionar un personaje, has click izquierdo sobre él.~65~190~156~0~0
+Estás demasiado lejos.~65~190~156~0~0
+Estás muy lejos para disparar.~255~0~0~1~0
+Estás demasiado lejos del vendedor.~65~190~156~0~0
+El sacerdote no puede curarte debido a que estás demasiado lejos.~65~190~156~0~0
+El sacerdote no puede resucitarte debido a que estás demasiado lejos.~65~190~156~0~0
+¡¡Estás muriendo de frío, abrígate o morirás!!.~65~190~156~0~0
+Estás muy cansado para luchar.~65~190~156~0~0
+No podes atacar ciudadanos, para hacerlo debes desactivar el seguro escribiendo /SEG.~255~255~255~1~0
+Aún no es período de elecciones.~255~255~255~1~0
+Ya has votado!!! Solo se permite un voto por miembro.~255~255~255~1~0
+No hay ningún miembro con ese nombre.~255~255~255~1~0
+Tu voto ha sido contabilizado.~255~255~255~1~0
+¡¡Has sido curado!!.~65~190~156~0~0
+Las elecciones han finalizado!!.~255~255~255~1~0
+¡¡¡Has ganado las elecciones, felicitaciones!!!.~255~255~255~1~0
+La puerta esta cerrada con llave.~65~190~156~0~0
+No puedes cargar mas objetos.~65~190~156~0~0
+¡¡Has muerto de frío!!.~65~190~156~0~0
+Has vuelto a ser visible.~65~190~156~0~0
+Te sentís menos cansado.~65~190~156~0~0
+Has matado a la criatura!~255~0~0~1~0
+Estás muerto!! Solo puedes usar ítems cuando estás vivo.~65~190~156~0~0
+Ya estás comerciando.~65~190~156~0~0
+Has prendido la fogata.~65~190~156~0~0
+No has podido hacer fuego.~65~190~156~0~0
+Servidor> Iniciando WorldSave.~0~185~0~0~0
+Servidor> WorldSave ha concluido.~0~185~0~0~0
+Has sido liberado!~65~190~156~0~0
+Para surcar los mares debes ser nivel 25 o superior.~65~190~156~0~0
+No comercio objetos para newbies.~65~190~156~0~0
+El npc no está interesado en comprar ese objeto.~32~51~223~1~1
+El npc no puede cargar tantos objetos.~65~190~156~0~0
+No tienes suficiente dinero.~65~190~156~0~0
+Mapa exclusivo para newbies.~65~190~156~0~0
+Estás envenenado, si no te curas morirás.~0~255~0~0~0
+Has sanado.~65~190~156~0~0
+Gracias por jugar Tierras Del Sur.~65~190~156~0~0
+Levas 15 segundos bloqueando el ítem, muévete o serás desconectado.~32~51~223~1~1
+Servidor> Grabando Personajes.~0~185~0~0~0
+Servidor> Personajes Grabados.~0~185~0~0~0
+Solo las clases mágicas conocen el arte de la meditación.~65~190~156~0~0
+¡¡La criatura te ha envenenado!!~255~0~0~1~0
+¡Has subido de nivel!~65~190~156~0~0
+¡Has ganado 50 puntos de experiencia!~255~0~0~1~0
+Pierdes el control de tus mascotas.~65~190~156~0~0
+Personaje Inexistente.~65~190~156~0~0
+Comercio cancelado. El otro usuario se ha desconectado.~255~255~255~0~0
+Servidor> Por favor espera algunos segundos, WorldSave está ejecutándose.~0~185~0~0~0
+Servidor> Lo sentimos mucho pero el servidor se encuentra actualmente detenido. Intenta ingresar más tarde.~0~185~0~0~0
+Mensaje del día:~65~190~156~0~0
+Comentario salvado...~65~190~156~0~0
+Usuario offline.~65~190~156~0~0
+Sin prontuario..~65~190~156~0~0
+Utilice /carcel nick@motivo@tiempo~65~190~156~0~0
+El usuario no está online.~255~255~255~0~0
+No puedes encarcelar a administradores.~65~190~156~0~0
+No puedes encarcelar por mas de 60 minutos.~65~190~156~0~0
+Usuario offline, Buscando en Charfile.~65~190~156~0~0
+Usuario offline. Leyendo Charfile...255~255~255~0~0
+Usuario offline. Leyendo charfile...~255~255~255~0~0
+No hay GMs Online.~65~190~156~0~0
+Solo se permite perdonar newbies.~65~190~156~0~0
+No puedes echar a alguien con jerarquía mayor a la tuya.~65~190~156~0~0
+Estás loco?? como vas a matar un GM!!!! :@~65~190~156~0~0
+No está online.~65~190~156~0~0
+El usuario no está online.~255~255~255~1~0
+No puedes banear a al alguien de mayor jerarquía..~65~190~156~0~0
+El personaje ya se encuentra baneado.~65~190~156~0~0
+Charfile inexistente (no use +)~65~190~156~0~0
+No tienes los privilegios necesarios.~65~190~156~0~0
+No hay ningún personaje con ese Niké.~65~190~156~0~0
+Personaje Offline.~65~190~156~0~0
+Usuario offline, echando del consejo.~65~190~156~0~0
+Hay un objeto en el piso en ese lugar.~65~190~156~0~0
+Servidor habilitado para todos.~0~185~0~0~0
+Servidor restringido a administradores.~0~185~0~0~0
+Usar /APASS <pjsinpass>@<pjconpass>~65~190~156~0~0
+Usar /APASS <pjsinpass> <pjconpass>~65~190~156~0~0
+Usar /AEMAIL <pj>-<nuevomail>~65~190~156~0~0
+El usuario esta online, no se puede si está online.~65~190~156~0~0
+Usar: /ANAME origen@destino~65~190~156~0~0
+El Personaje está online, debe salir para el cambio.~32~51~223~1~1
+Transferencia exitosa.~65~190~156~0~0
+El nick solicitado ya existe.~65~190~156~0~0
+No está permitido utilizar valores mayores a 95000. Su comando ha quedado en los logs del juego.~65~190~156~0~0
+No está permitido utilizar valores mayores a mucho. Su comando ha quedado en los logs del juego.~65~190~156~0~0
+Comando no permitido.~65~190~156~0~0
+Los datos estan en BYTES.~65~190~156~0~0
+¡Te has escondido entre las sombras!~65~190~156~0~0
+No tienes suficientes conocimientos para usar este barco.~65~190~156~0~0
+No tienes conocimientos de minería suficientes para trabajar este mineral.~65~190~156~0~0
+No tienes suficientes madera.~65~190~156~0~0
+No tienes suficientes lingotes de hierro.~65~190~156~0~0
+No tienes suficientes lingotes de plata.~65~190~156~0~0
+No tienes suficientes lingotes de oro.~65~190~156~0~0
+Has construido el arma!.~65~190~156~0~0
+Has construido el escudo!.~65~190~156~0~0
+Has construido el casco!.~65~190~156~0~0
+Has construido la armadura!.~65~190~156~0~0
+Has construido el objeto!~65~190~156~0~0
+No tienes suficientes minerales para hacer un lingote.~65~190~156~0~0
+Has obtenido un lingote!!!~65~190~156~0~0
+Los minerales no eran de buena calidad, no has logrado hacer un lingote.~65~190~156~0~0
+La criatura ya te ha aceptado como su amo.~65~190~156~0~0
+La criatura ya tiene amo.~65~190~156~0~0
+La criatura te ha aceptado como su amo.~65~190~156~0~0
+No has logrado domar la criatura.~65~190~156~0~0
+No puedes controlar mas criaturas.~65~190~156~0~0
+Necesitas por lo menos tres troncos para hacer una fogata.~65~190~156~0~0
+Has hecho una fogata.~65~190~156~0~0
+No has podido hacer la fogata.~65~190~156~0~0
+¡Has pescado un lindo pez!~65~190~156~0~0
+¡No has pescado nada!~65~190~156~0~0
+¡Has pescado algunos peces!~65~190~156~0~0
+¡No has pescado nada!~65~190~156~0~0
+Debes quitar el seguro para robar.~255~200~200~1~0
+¡No has logrado robar nada!~65~190~156~0~0
+No has logrado robar objetos.~65~190~156~0~0
+¡No has logrado apuñalar a tu enemigo!~255~0~0~1~0
+¡Has conseguido algo de leña!~65~190~156~0~0
+¡No has obtenido leña!~65~190~156~0~0
+¡Has extraído algunos minerales!~65~190~156~0~0
+¡No has conseguido nada!~65~190~156~0~0
+Has terminado de meditar.~65~190~156~0~0
+Comercio cancelado por el otro usuario.~255~255~255~0~0
+Has terminado de descansar.~65~190~156~0~0
+Estas obstruyendo la vía pública, muévete o serás encarcelado!!!~65~190~156~0~0
+No tienes espacio para mas hechizos.~65~190~156~0~0
+Ya tienes ese hechizo.~65~190~156~0~0
+No tienes la suficiente energía para lanzar este hechizo.~65~190~156~0~0
+No tienes suficientes puntos de magia para lanzar este hechizo.~65~190~156~0~0
+No tienes suficiente mana.~65~190~156~0~0
+No puedes lanzar hechizos porque estás muerto.~65~190~156~0~0
+Este hechizo actúa solo sobre usuarios.~65~190~156~0~0
+Este hechizo solo afecta a los npcs.~65~190~156~0~0
+Target invalido.~65~190~156~0~0
+NADA~65~190~156~0~0
+NADA~65~190~156~0~0
+¡Los Dioses te sonríen, has ganado 500 puntos de nobleza!.~65~190~156~0~0
+No podes atacar a ese npc.~65~190~156~0~0
+No puedes atacarte a vos mismo.~255~0~0~1~0
+este hechizo solo afecta NPCs que tengan amo.~32~51~223~1~1
+NADA~65~190~156~0~0
+No podes atacarte a vos mismo.~255~0~0~1~0
+No puedes mover el hechizo en esa dirección.~65~190~156~0~0
+¡¡ATENCION!! ¡ACABAS DE TIRAR TU BARCA!~255~255~255~0~0
+¡¡ATENCION!! ¡ACABAS DE TIRAR TU ARMADURA FACCIONARIA!~255~255~255~0~0
+No hay espacio en el piso.~65~190~156~0~0
+No podes cargar mas objetos.~255~0~0~1~0
+No puedo cargar mas objetos.~65~190~156~0~0
+No hay nada aquí.~65~190~156~0~0
+Solo los newbies pueden usar este objeto.~65~190~156~0~0
+Tu clase no puede usar este objeto.~65~190~156~0~0
+Tu clase, genero o raza no puede usar este objeto.~65~190~156~0~0
+¡¡Debes esperar unos momentos para tomar otra poción!!~65~190~156~0~0
+Te has curado del envenenamiento.~65~190~156~0~0
+Sientes un gran mareo y pierdes el conocimiento.~255~0~0~1~0
+Has abierto la puerta.~65~190~156~0~0
+La llave no sirve.~65~190~156~0~0
+Has cerrado la puerta con llave.~65~190~156~0~0
+No está cerrada.~65~190~156~0~0
+No hay agua allí.~65~190~156~0~0
+Estás muy cansado.~65~190~156~0~0
+Antes de usar la herramienta deberías equipártela.~65~190~156~0~0
+Estás demasiado hambriento y sediento.~65~190~156~0~0
+¡Debes aproximarte al agua para usar el barco!~65~190~156~0~0
+Debes sacar el seguro antes de poder atacar una mascota de un ciudadano.~32~51~223~1~1
+Los soldados del Ejercito Real tienen prohibido atacar ciudadanos y sus macotas.~32~51~223~1~1
+No podes atacar mascotas en zonas seguras.~255~0~0~1~0
+No podes atacar a este NPC.~255~0~0~1~0
+No podes atacar a un espíritu.~65~190~156~0~0
+Esta es una zona segura, aquí no podes atacar otros usuarios.~32~51~223~1~1
+No podes pelear aquí.~32~51~223~1~1
+Los soldados del Ejercito Real tienen prohibido atacar ciudadanos.~32~51~223~1~1
+NADA.~32~51~223~1~1
+Los miembros de la Legión oscura tienen prohibido atacarse entre sí.~32~51~223~1~1
+¡¡No podes atacar a los administradores del juego!!32~51~223~1~1 'marche. esto lo saque
+Has sido expulsado de las tropas reales!!!.~255~0~0~1~0
+Has sido expulsado de la Legión oscura!!!.~255~0~0~1~0
+No estás en guerra con el clan.~255~255~255~1~0
+Ya estás en paz con el clan.~255~255~255~1~0
+La propuesta de paz ha sido entregada.~255~255~255~1~0
+Ya has enviado una propuesta de paz.~255~255~255~1~0
+¡No pueden expulsar al líder del clan!~255~255~255~1~0
+Has sido expulsado del clan.~255~255~255~1~0
+NADA~255~255~255~1~0
+Tu solicitud ha sido rechazada.~255~255~255~1~0
+No podes aceptar esta solicitud, el personaje es líder de otro clan.~255~255~255~1~0
+Felicitaciones, tu solicitud ha sido aceptada.~255~255~255~1~0
+Solo podes aceptar solicitudes cuando el solicitante esta ONLINE.~255~255~255~1~0
+Los newbies no pueden conformar clanes.~255~255~255~1~0
+La solicitud fue recibida por el líder del clan, ahora debes esperar la respuesta.~255~255~255~1~0
+Tu solicitud ya fue recibida por el líder del clan, ahora debes esperar la respuesta.~255~255~255~1~0
+La dirección de la Web ha sido actualizada.~255~255~255~1~0
+Estás en guerra con este clan, antes debes firmar la paz.~255~255~255~1~0
+Ya estás aliado con este clan.~255~255~255~1~0
+Hoy es la votación para elegir un nuevo líder para el clan!!.~255~255~255~1~0
+La elección durará 24 horas, se puede votar a cualquier miembro del clan.~255~255~255~1~0
+Para votar escribe /VOTO NICKNAME.~255~255~255~1~0
+Solo se computará un voto por miembro.~255~255~255~1~0
+Para fundar un clan debes de ser nivel 25 o superior.~255~255~255~1~0
+Para fundar un clan necesitas al menos 90 puntos en liderazgo.~255~255~255~1~0
+Los datos del clan son inválidos, asegúrate que no contiene caracteres inválidos.~255~255~255~1~0
+Ya existe un clan con ese nombre.~255~255~255~1~0
+El otro usuario aún no ha aceptado tu oferta.~255~255~255~0~0
+No tienes esa cantidad.~255~255~255~0~0
+No tienes mas espacio en el banco!!~65~190~156~0~0
+El banco no puede cargar tantos objetos.~65~190~156~0~0
+No puedes susurrarle a los Gms.~65~190~156~0~0
+Usuario inexistente.~65~190~156~0~0
+Has dejado de descansar.~65~190~156~0~0
+Dejas de meditar.~65~190~156~0~0
+No podes moverte porque estas paralizado.~65~190~156~0~0
+No estás en modo de combate, presiona la tecla C para pasar al modo combate.~65~190~156~0~0
+No podes usar así este arma.~65~190~156~0~0
+No puedes tomar ningún objeto.~65~190~156~0~0
+Has salido del modo de combate.~65~190~156~0~0
+Has pasado al modo de combate.~65~190~156~0~0
+No perteneces a ningún clan.~65~190~156~0~0
+NADA.~255~255~255~1~0
+NADA.~255~255~255~1~0
+Has rechazado la oferta del otro usuario.~255~255~255~0~0
+NADA~65~190~156~0~0
+NADA.~65~190~156~0~0
+No podes ocultarte si estás navegando.~65~190~156~0~0
+No tienes municiones.~65~190~156~0~0
+¡No puedes atacarte a vos mismo!~65~190~156~0~0
+¡Para atacar ciudadanos desactiva el seguro!~255~200~200~1~0
+¡Primero selecciona el hechizo que quieres lanzar!~65~190~156~0~0
+No puedes pescar desde donde te encuentras.~65~190~156~0~0
+No hay agua donde pescar busca un lago, rió o mar.~65~190~156~0~0
+No podes robar aquí.~32~51~223~1~1
+No hay a quién robarle!.~65~190~156~0~0
+¡No podes robarle en zonas seguras!.~65~190~156~0~0
+Deberías equiparte el hacha.~65~190~156~0~0
+No podes talar desde allí.~65~190~156~0~0
+No hay ningún árbol ahí.~65~190~156~0~0
+Ahí no hay ningún yacimiento.~65~190~156~0~0
+No podes domar una criatura que está luchando con un jugador.~65~190~156~0~0
+No podes domar a esa criatura.~65~190~156~0~0
+No hay ninguna criatura allí!.~65~190~156~0~0
+No tienes mas minerales.~65~190~156~0~0
+Ahí no hay ninguna fragua.~65~190~156~0~0
+Ahí no hay ningún yunque.~65~190~156~0~0
+Felicidades has creado el primer clan de Tierras del Sur!!!~65~190~156~0~0
+%%%%%%%%%% INFORMACION DEL HECHIZO %%%%%%%%%%~65~190~156~0~0
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%~65~190~156~0~0
+¡Primero selecciona el hechizo!~65~190~156~0~0
+No estás comerciando.~65~190~156~0~0
+No puedes cambiar tu oferta.~255~255~255~0~0
+No puedes salir estando paralizado.~32~51~223~1~1
+Comercio cancelado.~255~255~255~0~0
+Ya has fundado un clan, solo se puede fundar uno por personaje.~65~190~156~0~0
+Eres líder de un clan, no puedes salir del mismo.~65~190~156~0~0
+Te acomodas junto a la fogata y comienzas a descansar.~65~190~156~0~0
+Te levantas.~65~190~156~0~0
+No hay ninguna fogata junto a la cual descansar.~65~190~156~0~0
+Comienzas a meditar.~65~190~156~0~0
+Dejas de meditar.~65~190~156~0~0
+¡¡No puedes comerciar con los muertos!!~65~190~156~0~0
+No puedes comerciar con vos mismo...~65~190~156~0~0
+No puedes comerciar con el usuario en este momento.~65~190~156~0~0
+No perteneces a ningún clan.~65~190~156~0~0
+El mensaje ha sido entregado, ahora sólo debes esperar que se desocupe algún GM.~65~190~156~0~0
+Ya habías mandado un mensaje, tu mensaje ha sido movido al final de la cola de mensajes.~65~190~156~0~0
+La descripción tiene caracteres inválidos.~65~190~156~0~0
+La descripción ha cambiado.~65~190~156~0~0
+El password debe tener al menos 6 caracteres.~65~190~156~0~0
+El password ha sido cambiado.~65~190~156~0~0
+Debes indicar el monto de cuánto quieres retirar.~65~190~156~0~0
+No puedes inmovilizarte a ti mismo.~255~0~0~1~0
+Este mapa es demasiado peligroso para tu nivel.~65~190~156~0~0
+No puedes lanzar hechizos curativos a un criminal si tú no lo eres, para hacerlo debes quitar el seguro, y tú también te convertirás en criminal.~65~190~156~0~0
+Para talar el árbol de tejo, debes equipar el hacha dorada.~65~190~156~0~0
+Debes equipar el hacha de leñador.~65~190~156~0~0
+Este npc no está herido.~65~190~156~0~0
+¡¡El usuario ya está vivo!!~65~190~156~0~0
+Necesitas un mejor báculo para este hechizo.~65~190~156~0~0
+El npc es inmune a este hechizo.~255~0~0~1~0
+No está herido.~65~190~156~0~0
+No estás herido.~65~190~156~0~0
+Tu clase no puede usar este objeto.~65~190~156~0~0
+Sólo los newbies pueden usar estos objetos.~65~190~156~0~0
+¡Has vuelto a ser visible!~65~190~156~0~0
+¡¡Estás muerto!! Los muertos no pueden comunicarse con el mundo de los vivos.~65~190~156~0~0
+Estás muy lejos del usuario.~65~190~156~0~0
+¡No puedes cerrar en movimiento!~32~51~223~1~1
+¡¡No podes atacar a nadie porque estas muerto!!~65~190~156~0~0
+¡¡Estás muerto!! Los muertos no pueden tomar objetos.~65~190~156~0~0
+Estás demasiado lejos para pescar.~65~190~156~0~0
+!!El personaje no existe, cree uno nuevo.~65~190~156~0~0
+¡¡Has sido resucitado!!~65~190~156~0~0
+¡¡No puedes comerciar si estás navegando!!~65~190~156~0~0
+Estás demasiado lejos del usuario.~65~190~156~0~0
+Primero has click izquierdo sobre el personaje.~65~190~156~0~0
+No puedes cambiarte la descripción si estás muerto.~65~190~156~0~0
+Tu denuncia fue enviada.~65~190~156~0~0
+El personaje no está online.~65~190~156~0~0
+Por el momento no se pueden crear más partís.~255~200~200~1~0
+La party está llena, no puedes entrar.~255~200~200~1~0
+Has creado una party!~255~200~200~1~0
+No puedes hacerte líder.~255~200~200~1~0
+¡Te has convertido en líder de la party!~255~200~200~1~0
+No tienes suficientes puntos de liderazgo para liderar una party.~255~200~200~1~0
+Ya pertenecés a una party.~255~200~200~1~0
+Ya pertenecés a una party, pulsa ''F7'' y luego SALIR PARTY para abandonarla.~255~200~200~1~0
+El fundador decidirá si te acepta en la party.~255~200~200~1~0
+Para ingresar a una party debes hacer click sobre el fundador y luego presionar la tecla ''F3''.~255~200~200~1~0
+No eres miembro de ninguna party.~255~200~200~1~0
+Los retos están desactivados!.~65~190~156~0~0
+Debes ser nivel 18 o mas!.~65~190~156~0~0
+La apuesta mínima es de 5000 monedas de oro!.~65~190~156~0~0
+Los rings están llenos!.~65~190~156~0~0
+No puedes crear un reto si estás muerto!!!~65~190~156~0~0
+¡Para crear un reto debes estar en zona segura!~65~190~156~0~0
+No puedes retarte a ti mismo.~65~190~156~0~0
+No puedes retar a un muerto.~65~190~156~0~0
+Estás demasiado lejos del usuario.~65~190~156~0~0
+No tienes suficiente oro.~65~190~156~0~0
+Debes seleccionar un personaje.~65~190~156~0~0
+Has tranformado al mapa en zona insegura.~65~190~156~0~0
+Has tranformado al mapa en zona segura.~65~190~156~0~0
+El jugador no está online.~65~190~156~0~0
+Usuario no conectado.~65~190~156~0~0
+Error en el archivo.~65~190~156~0~0
+Offline.~65~190~156~0~0
+El usuario no está online.~255~255~255~0~0
+Usuario offline, Echando de los consejos.~65~190~156~0~0
+El Personaje está online, debe salir para el cambio.~32~51~223~1~1
+Transferencia exitosa.~65~190~156~0~0
+El nick solicitado ya existe.~65~190~156~0~0
+No está permitido utilizar valores mayores a 950000. Su comando ha quedado en los logs del juego.~65~190~156~0~0
+No está permitido utilizar valores mayores a mucho. Su comando ha quedado en los logs del juego.~65~190~156~0~0
+INIs recargados.~65~190~156~0~0
+OBJData recargado.~65~190~156~0~0
+El recuperar fue ejecutado correctamente.~65~190~156~0~0
+¡¡No puedes hacer fogatas en zonas seguras!!~65~190~156~0~0
+Este npc es inmune a los hechizos.~65~190~156~0~0
+Este hechizo no afecta a los muertos.~65~190~156~0~0
+Necesitas un instrumento mágico para devolver la vida.~65~190~156~0~0
+Escribe /SEG para quitar el seguro.~255~0~0~1~0
+Has logrado desarmar a tu oponente!~255~0~0~1~0
+este arma solo tiene efecto sobre los dragones.~255~0~0~1~0
+Tu anillo rechaza los efectos del hechizo.~255~0~0~1~0
+¡El hechizo no tiene efecto!~255~0~0~1~0
+Tu clase no puede utilizar este hechizo.~65~190~156~0~0
+Primero tenés que seleccionar una criatura, hace click izquierdo sobre ella.~65~190~156~0~0
+Necesitas el anillo mágico para devolver la vida.~65~190~156~0~0
+No puede atacar a una mascota en una zona segura.~32~51~223~1~1
+No tienes la inteligencia y la habilidad necesaria para trabajar con este material.~65~190~156~0~0
+Has abandonado a tu criatura.~65~190~156~0~0
+¡El usuario ya está invisible!~65~190~156~0~0
+¡Está muerto!~65~190~156~0~0
+No está envenenado.~65~190~156~0~0
+No estás envenenado.~65~190~156~0~0
+Solo el fundador puede expulsar miembros de una party.~255~200~200~1~0
+No eres miembro de ninguna party.~255~200~200~1~0
+¡Está muerto, no puedes aceptar miembros en ese estado!~255~200~200~1~0
+No eres líder, no puedes aceptar miembros.~255~200~200~1~0
+¡No se ha hecho el cambio de mando!~255~200~200~1~0
+¡No eres el líder!~255~200~200~1~0
+No podes atacar porque estas muerto.~65~190~156~0~0
+Para atacar mascotas de ciudadanos debes quitarte el seguro.~255~0~0~1~0
+¡¡No puedes dejar de navegar en mitad del mar!!~65~190~156~0~0
+¡¡No puedes hacer fogatas en zonas seguras!!~65~190~156~0~0
+¡Tu oponente te ha desarmado!~255~0~0~1~0
+¡No puedes revivir a alguien que esta en modo combate!~255~0~0~1~0
+¡No estás herido!~255~0~0~1~0
+¡Los consejeros no pueden comerciar con otros usuarios!~255~255~255~0~0
+El usuario no pertenece a ninguna party.~255~255~255~0~0
+Empiezas a escuchar los pmsg de la party del usuario.~255~255~255~0~0
+Ya hay otro Gm escuchando a esta party.~255~255~255~0~0
+Te has desconcentrado, dejas de meditar.~65~190~156~0~0
+No puedes arrojar al suelo los objetos newbies.~65~190~156~0~0
+Para atacar criaturas no hostiles deberas desactivar el seguro.~65~190~156~0~0
+Para alterar tu faccion, deberas antes salir de tu clan.~65~190~156~0~0
+La mascota no atacará a ciudadanos si eres miembro de la Armada Real o tienes el seguro activado.~65~190~156~0~0
+Ahora debes esperar que acepten el desafio tus enemigos y tu aliado.~65~190~156~0~0
+Reto> Tienes 30 segundos para agarrar y depositar los items de tu enemigo.~65~190~156~0~0
+El Global esta desactivado.~65~190~156~0~0
+Debes equiparte una herramienta para poder trabajar.~65~190~156~0~0
+Tu Báculo no es lo suficientemente poderoso para que puedas lanzar el conjuro.~65~190~156~0~0
+Para ayudar criminales debes sacarte el seguro ya que te volverás criminal como ellos.~65~190~156~0~0
+El usuario ya está invisible!~65~190~156~0~0
+Ullathorpe
+Sur Ullathorpe
+Bosque
+Suburbios Infectados
+Norte Ullathorpe
+Bosque de Duendes
+Bosque
+Bosque
+Bosque
+Bosque de Tigres
+Este de Ullathorpe
+Bosque
+Bosque Infectado
+Bosque
+Desierto Renkil
+Oasis
+Desierto Rinkel
+Bosque
+Bosque
+Muelle del Desierto
+Desierto Rinkel
+Bosque
+Bosque
+Bosque Fantasmal
+Bosque Místico
+Bosque
+Bosque
+Bosque
+Bosque
+Bosque
+Bosque
+Bosque
+Minas Thyr
+Nix
+Mansión de Nix
+Fuerte Orco
+Newbie Dungeon
+Bosque Dorck
+Bosque Dorck
+Catacumbas de Ullathorpe
+Catacumbas
+Catacumbas
+Catacumbas
+Catacumbas
+Catacumbas de Nix
+Bosque Dorck Sur
+Isla Veleta
+Deadly Room
+Torneos
+Minas Rapajik
+Minas Rapajik
+Minas Rapajik
+Bosque
+Bosque de Asesinos
+Bosque de Bandidos
+Bosque
+Sur Banderbill
+Entrada a Banderbill
+Banderbill Central
+Banderbill Norte
+Muelles de Banderbill
+Lindos
+Abadía Lindos Sur
+Lindos Este
+Banderbill Oeste
+Prisión de Banderbill
+Bosque de Osos
+Bosque de Jabalíes
+Bosque de Arañas
+Bosque de Goblins
+Bosque
+Bosque
+Bosque
+Bosque
+Bosque de Tortugas
+Entrada Dungeon Marabel
+Dungeon Vespar
+Mar Oeste Nix
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar Sur de Nix
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Isla Dungeon Veriil
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar de Leviatanes
+Mar
+Isla de Morgolock
+Isla Esperanza
+Isla Esperanza
+Isla Esperanza
+Isla Esperanza
+Dungeon Marabel
+Dungeon Marabel
+Mar
+Mar
+Mar
+Mar
+Mar de Calamares
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar
+Mar de Calamares
+Mar
+Mar
+Isla de la Muerte
+Entrada Veriil
+Pasillo Principal
+Cercanías del Fuerte
+Pasillos Veriil
+Cercanías a las Minas
+Minas Veriil
+El Fuerte
+Mar
+Mar
+Mar
+Puerto de Arghâl
+Arghâl
+Mar
+Mar
+Mar
+Mar
+Arghâl Oeste
+Bosques de Banderbill
+Bosques de Banderbill
+Bosque
+Bosque de Tortugas
+Bosque de Osos
+Mar Sur de Veleta
+Dungeon Speculum
+Dungeon Speculum
+Dungeon Speculum
+Dungeon Dragon
+Dungeon Newbie
+Dungeon Newbie
+Polo Norte
+Polo Norte
+Polo Norte
+Dungeon Speculum
+Nueva Esperanza
+Dungeon Speculum
+Dungeon Magma
+Arena
+Ciudad Oscura
+Mar
+Mar
+Mar
+Mar
+Mar
+Isla vespar
+Mar
+Ciudad Oscura
+Concilio de las Sombras
+Consejo de Banderbill
+Dungeon Magma
+Mar
+Mar
+Descanso
+Arena
+Descanso
+Descanso
+Descanso
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Descansos
+Descansos
+Mar de Combate
+Mar de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Combate
+Arena de Juegos
+Mar de Combate
+La Grieta
+Arena
+Arena
+Laberinto
+Castillo
+Humano
+Enano
+Elfo
+Elfo Oscuro
+Gnomo
+<Ejercito real> <Aprendiz>
+<Ejercito real> <Caballero>
+<Ejercito real> <Justiciero>
+<Ejercito real> <Ducado de Banderbill>
+<Ejercito real> <Marqués del reino>
+<Ejercito real> <Emisario del bien>
+<Ejercito real> <Caudillo de la nobleza>
+<Ejercito real> <Campeón de la luz>
+<Ejercito real> <Héroe Celestial>
+<Legión oscura> <Esbirro>
+<Legión oscura> <Sanguinario>
+<Legión oscura> <Condenado>
+<Legión oscura> <Caballero de la Oscuridad>
+<Legión oscura> <Devorador de Almas>
+Mago
+Clerigo
+Guerrero
+Asesino
+Recolector
+Bardo
+Druida
+Paladin
+Cazador
+Pescador
+Herrero
+Leñador
+Minero
+Carpintero
+Pirata
+Sastre
+Resistencia Mágica
+Magia
+Recoleccion
+Tacticas de combate
+Combate con armas
+Meditar
+Apuñalar
+Ocultarse
+Supervivencia
+Talar árboles
+Comercio
+Defensa con escudos
+Pesca
+Mineria
+Carpinteria
+Herreria
+Liderazgo
+Domar animales
+Armas de proyectiles
+Combate sin armas
+Navegacion
+Sastreria
+Fuerza
+Agilidad
+Inteligencia
+Carisma
+Constitucion
+Ullathorpe
+Nix
+Banderbill
+Arghâl
+Ullathorpe está establecida en el medio de los grandes bosques de Argentum, es principalmente un pueblo de campesinos y leñadores. Su ubicación hace de Ullathorpe un punto de paso obligado para todos los aventureros ya que se encuentra cerca de los lugares más legendarios de este mundo.
+Nix es una gran ciudad. Edificada sobre la costa oeste del principal continente de Argentum.
+Banderbill se encuentra al norte de Ullathorpe y Nix, es una de las ciudades más importantes de todo el imperio.
+Manzana Roja
+Espada larga
+Hacha orca
+Árbol 
+Árbol
+
+Puerta de madera abierta
+Puerta de madera cerrada
+Horquilla
+Cofre abierto
+Cofre cerrado
+Monedas de oro
+Cartel Armas
+Llave
+Daga
+Puerta de madera abierta 2
+Puerta de madera cerrada 2
+Cartel Comida
+Espada dos manos
+Lapida
+Porcion de tarta
+Frutas del bosque
+Pan de trigo
+Pan de maiz
+Pastel
+Pollo
+Chuleta
+Queso de cabra
+Sandia
+Armadura de Cuero (H/E/EO-H)
+Vestimentas comunes (H/E/EO-H/M)
+Vestimentas comunes (H/E/EO-H/M)
+Cartel Sastre
+Foro
+Vestimentas comunes (H/E/EO-H/M)
+Poción amarilla
+Poción azul
+Poción roja
+Poción verde
+Atlas Argentum
+Libro antiguo
+Vino
+Botella de agua
+Puerta de madera cerrada
+Ropa de clan (H/E/EO-H/M)
+
+
+
+Anillo de Druida
+Anillo de Mago Mayor
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Ullathorpe casa 1
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Leña
+Cartel Pociones
+Cartel Nº 1
+Cartel Carpinteria
+Cartel Propiedades
+Fogata
+Manzana Roja
+Llave Ullathorpe casa 2
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Ullathorpe casa 3
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Ullathorpe casa 4
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Cartel Nº 2
+Cartel Nº 3
+Cartel Nº 4
+Vestimenta de Viajero (H/E/EO-M/H)
+Sandia
+Cartel Nº 5
+Cartel Nº 6
+Cartel Nº 7
+Cartel Nº 8
+Cartel Nº 9
+Llave casa 1 de Nix
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 2 de Nix
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 3 de Nix
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 4 de Nix
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 5 de Nix
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 6 de Nix
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 7 de Nix
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 8 de Nix
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 9 de Nix
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Espada vikinga
+Katana
+Sable
+Hacha larga de guerra
+Hacha de leñador
+Anillo de Mago Menor
+Hacha de guerra dos filos
+Escudo de hierro
+Casco de hierro completo
+Casco de hierro 
+Escudo de Guerra
+Cartel Armaduras
+Túnica de Entrenamiento (H/E/EO-M/H)
+Ramitas
+Anillo del Bosque
+Caña de pescar
+Merluza
+Llave Mansion Nix
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Teleport a Newbie Dungeon
+Teleport a Nix
+Teleport a Ullathorpe
+Arpa Mágica
+
+Cruz de Madera
+Mazo de Clerigo
+Piedra de Poder Rota
+Piedra de Poder
+Espada Afilada
+
+Cama
+Cama
+Copa de plata
+Banana
+Hacha de bárbaro
+Cerveza
+Jugo de frutas
+Silla
+Cuchara
+Espada corta 
+Daga Completa
+Poción violeta
+Mueble rustico
+Silla
+Yunque
+Vestimenta de mujer (H/E/EO-M)
+Puerta
+Puerta
+Puerta
+Llave catacumbas de Ullathorpe
+Puerta
+Puerta
+Puerta
+Llave dungeon maleheing
+Puerta
+Puerta
+Puerta
+Llave dungeon maleheing
+Llave fuerte
+Puerta
+Puerta
+Puerta
+Piquete de minero
+Yacimiento de hierro
+Yacimiento de hierro
+Yacimiento de hierro
+Yacimiento de hierro
+Hierro
+Plata
+Oro  
+Armadura de Placas Completa (H/E/EO-M/H)
+Túnica de mago (H/E/EO-H/M)
+Flecha mágica
+Serrucho
+Dardo mágico
+Curar veneno
+Curar heridas leves
+Envenenar
+Curar heridas graves
+Flecha electrica
+Misil mágico
+Paralizar
+Remover paralisis
+
+Cartel Mineros
+Cartel Nº 11
+Cartel Nº 12
+Cartel Nº 13
+Cartel Nº 14
+Cartel Nº 15
+Cartel Nº 16
+Cartel Nº 17
+Cartel Nº 18
+Cartel Nº 19
+Cartel Nº 10
+Cartel Nº 20
+Cartel Mágia
+Cartel Pescadores
+Cartel UllaThorpe / Nix
+Cartel Anuncio a Forasteros
+Cartel Newbie Dungeón
+Cartel Dorck / Nix
+Cartel Bosque de Dorck Peligro
+Yacimiento de oro
+Yacimiento de oro
+Yacimiento de oro
+Yacimiento de oro
+Yacimiento de plata
+Yacimiento de plata
+Yacimiento de plata
+Yacimiento de plata
+Ropa de pordiosero
+Túnica Roja (H/E/EO-M/H)
+Túnica Azul (H/E/EO-H/M)
+Túnica Roja (H/E/EO-H/M)
+Ropa común (E/G-H)
+Puerta de madera abierta
+Puerta de madera cerrada
+Armadura de placas completa (E/G-H/M)
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera abierta
+Puerta de madera cerrada
+
+
+Cartel Banco
+Cartel Provisiones
+Cartel Sacerdote
+Cartel El Mesón Hostigado
+Cartel El Gran Consejo
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 1
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 2
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 3
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 4
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 5
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 6
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 7
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 8
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 9
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Llave del gran consejo
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Llave boveda del gran consejo
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Llave boveda del gran consejo
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Llave del la boveda goliath
+Cartel Muelle
+Cartel Finanzas Goliath Casa Central
+Cartel Palacio Real
+Invisibilidad
+Resucitar
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 10
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 11
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 12
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 13
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 14
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 15
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 16
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 17
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Banderbill Llave casa 18
+Armadura de las Sombras (H/E/EO-M/H)
+Túnica de druida (H/E/EO-H/M)
+Teleport a Banderbill
+Cota de Mallas (H/E/EO-H)
+Armadura de cazador
+Tormenta de fuego
+Tambor
+Provocar hambre
+Terrible hambre de Igôr
+Daga Zafiro
+Puñal
+Daga +4
+Lapida
+Túnica de Hechicero Imperial
+Armadura de Caballero Real
+Vestimentas de noble
+Sacerdote del Imperio
+Puerta abierta
+Puerta cerrada
+Puerta cerrada
+Llave Isla Beleta
+
+Teleport
+Armadura de Caballero Oscuro
+
+Túnica de Mercader (H/E/EO-M/H)
+Vestimenta de Aldeana (H/E-M)
+Armadura de Guerrero Oscuro
+Yunque
+Fragua
+Lingote de hierro
+Lingote de plata
+Lingote de oro
+Martillo de Herrero
+Armadura de Placas Especial (H/E/EO-M/H)
+Armadura de Placas Titánica (H/E/EO-M/H)
+Armadura de gala (E/G-H/M)
+Armadura de Placas Titánica (E/G-M/H)
+Llamado a la naturaleza
+Invokar Zombies
+Celeridad
+Torpeza
+Garrote
+Cimitarra
+Vara de mago
+Martillo de guerra
+Espada mata dragones
+Espada de plata
+Escudo de tortuga
+Casco de plata
+Gema lunar
+Gema azul
+Gema naranja
+Gema celeste
+Gema lila
+Gema roja
+Gema verde
+Gema violeta
+Piel de lobo
+Piel de oso pardo
+Piel de oso polar
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 1 de Lindos
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 2 de Lindos
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 3 de Lindos
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 4 de Lindos
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 5 de Lindos
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave casa 6 de Lindos
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Abadia de Lindos
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Vault de la Abadia de Lindos
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave prision de Banderbill
+
+Foro
+Foro
+Teleport a Lindos
+Cartel Prisión
+Cartel Prisión al Este
+Cartel Abadia
+Daga (Newbies)
+Poción roja (Newbies)
+Poción azul (Newbies)
+Vestimentas comunes (H/E/EO-H/M)(Newbies)
+Vestimentas comunes(H/E/EO-H/M)(Newbies)
+Vestimentas comunes(H/E/EO-H/M)(Newbies)
+Ropa común (E/G-H)(Newbies)
+Manzana Roja (Newbies)
+Botella de agua (Newbies)
+Laúd
+Fuerza
+Debilidad
+Palmera
+Flor
+Barca
+Galera
+Galeon
+Fragata fantasmal
+Arco simple
+Arco compuesto
+Flecha comun
+Armadura de Dragón
+Armadura de Dragón
+Armadura de Dragón
+Armadura de herrero
+Armadura Legendaria (H/E/EO-M/H)
+Vestimenta de Minero (E/G-M/H)
+Dama de las Tinieblas (H/E/EO-M) 
+Vestido de Alcurnia (H/E-M)
+Armadura de Placas Azul (H/E/EO-M) 
+Vestimenta de Minero (H/E/EO-M/H)
+Túnica Celestial
+Armadura de Guerrero Real
+Armadura de Placas Roja (Mujer)
+Asesino del mal 2da Jerarquía
+Armadura de Entrenamiento (H/E/EO-M/H)
+Armadura de la Ciénaga
+Armadura de Guerra (H/E/EO-M/H)
+Armadura de Dama Oscura
+Cota de Mallas (H/E/EO-M)
+Armadura Bruñida (E/G-H/M)
+Vestimenta de Aventurero (H/E/EO-M/H)
+Ropa de Campesino (E/G-H/M)
+Trampa Visual (H/E/EO-H/M)
+Ropa Común (H/E/EO-M)
+Ropa Común (H/E/EO-M)
+Ropa Común (H/E/EO-M)
+Vestimenta de Lucha (E/G-M/H)
+Ropa Estuaria (H/E/EO-M)
+Túnica de Maga Oscura
+Vestido de Nobleza (H/E/EO-M)
+Vestido Rosa (H/E/EO-M)
+Vestido Calipso (E/G-M)
+Vestido de Gloria (EO-M)
+Vestido de Bruja (EO-M)
+Ropa de Carpintero (H/E/EO-H/M)
+Túnica de Maga del Imperio
+Túnica de Mago del Imperio
+Túnica de Mago Oscuro
+Túnica Legendaria (H/E/EO-M/H)
+Armadura de Dama Real
+Armadura de elite real
+Armadura de líder imperial
+Armadura de Sacerdote del Mal
+Túnica Roja(G-H/M)
+Túnica Roja combinada(G-H)
+Túnica Roja combinada(G-M)
+Ropa común (E/G-M)
+Túnica de Gloria
+Armadura de cuero (H/E/EO-M)
+Inmovilizar
+Descarga electrica
+Apocalipsis
+Botella agua
+Botella vacia
+Tumba de Gulfas Morgolock
+Invocar elemental de fuego
+Invocar elemental de agua
+Invocar elemental de tierra
+Implorar ayuda
+Flauta Mágica
+
+Estupidez
+Red de pesca
+Pejerrey
+Pez espada
+Salmón
+Cartel Dungeón Veril Peligro
+Cartel Bienvenido a Arghäl
+Túnica de Mago del Imperio
+Vestido de Celebración (EO-M)
+Flecha envenenada
+Flecha Completa
+Flecha incendiaria
+Sangre
+Sangre
+En Honor a Vince
+Armadura Imperial Pesada
+Túnica de Mago Oscuro
+Daga de Plata
+
+
+Piquete de minero (Newbie)
+Caña de pescar (Newbie)
+Serrucho (Newbie)
+Martillo de Herrero (Newbie)
+Flores
+Flores
+Flores
+Flores
+Flores
+Flores
+Flores
+Flores
+
+Foro
+Foro
+
+
+
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Argâl casa 1
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Argâl casa 2
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Argâl casa 3
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Argâl casa 4
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Argâl casa 5
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Argâl casa 6
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Argâl casa 7
+Puerta de madera abierta
+Puerta de madera cerrada
+Puerta de madera cerrada
+Llave Argâl casa 8
+Armadura de cazador (E/G-H/M)
+Armadura de cuero (E/G-H/M)
+Túnica de druida (E/G-H/M)
+Túnica Legendaria (E/G-H/M)
+Cota de Mallas (E/G-H/M)
+Túnica de monje (E/G-H/M)
+Armadura de Cazador del Imperio
+Vestimentas de noble (E/G-H/M)
+Túnica gris (E/G-H/M)
+Sombrero de Mago Aprendiz
+Sombrero de Mago Avanzado
+Báculo Engarzada
+Bastón nudoso
+Vara de fresno
+Arco simple reforzado
+Arco compuesto reforzado
+Arco de Cazador
+Poción de energía
+Hacha dorada
+Túnica Celestial
+Túnica de dioses
+Piel de lobo invernal
+Árbol de Tejo
+
+
+
+Teleport
+Teleport verde
+Teleport celeste
+Teleport violeta
+Leña de Tejo
+Laud Mágico
+Anillo de Resistencia Mágica
+Anillo de Protección mágica
+Anillo de Disolución Mágica
+Poción Negra
+Anillo de Plata
+Anillo de los Dioses
+Pocion amarilla (Newbies)
+Pocion verde (Newbies)
+Teleport a Ciudad Oscura
+Invocar Ayuda del Espiritu Indomable
+Remover Estupidez
+Mimetismo
+Detectar Invisibilidad
+Espada Especial
+Curación celestial
+Laúd Especial
+Ceguera
+Armadura del Gran Cazador
+Armadura del Gran Cazador (E/G-H/M)
+Divinidad
+Vestimenta de mujer (Newbies)
+Equipo invernal (H-E-EO/M)
+Equipo Invernal (H/E/EO-M/H)
+Equipo invernal (E/G-H/M)
+Túnica de dioses (E/G-H/M)
+Teleport a Dungeon Dragon
+Vestido Negro (E/G-M)
+Armadura de Cazador (H/E/EO-M/H)
+Ropa de Carpintero (E/G-H/M)
+Armadura de Dama Imperial
+Armadura de Caballero Imperial
+Túnica de Hechicera Imperial
+Túnica de Hechizero Oscuro
+Túnica de Hechizera Oscura
+Armadura Imperial Pesada (E/G)
+Guerrero de las Tinieblas
+Túnica Palatina
+Túnica Avernal
+Poción violeta (Newbies)
+Ropa común (E/G-M)(Newbies)
+Fragmento de cristal
+Piquete de oro
+Puerta de madera cerrada
+Puerta de madera abierta
+Armadura de Asesino (H/E/EO-M/H)
+Armadura de Guerra (E/G-M/H)
+Llave Casa Ciudad Oscura 1
+Puerta Abierta de la Casa Ciudad Oscura 1
+Puerta Cerrada de la Casa Ciudad Oscura 1
+Puerta Cerrada con Llave de la Casa Ciudad Oscura 1
+Llave Casa Ciudad Oscura 2
+Puerta Abierta de la Casa Ciudad Oscura 2
+Puerta Cerrada de la Casa Ciudad Oscura 2
+Puerta Cerrada con Llave de la Casa Ciudad Oscura 2
+Llave Casa Ciudad Oscura 3
+Puerta Abierta de la Casa Ciudad Oscura 3
+Puerta Cerrada de la Casa Ciudad Oscura 3
+Puerta Cerrada con Llave de la Casa Ciudad Oscura 3
+Llave Casa Ciudad Oscura 4
+Puerta Abierta de la Casa Ciudad Oscura 4
+Puerta Cerrada de la Casa Ciudad Oscura 4
+Puerta Cerrada con Llave de la Casa Ciudad Oscura 4
+Llave Consilio de las sombras 
+Puerta Abierta de la Consilio de las sombras 
+Puerta Cerrada de la Consilio de las sombras 
+Puerta Cerrada con Llave de la Consilio de las sombras 
+Estatua de Varda Elentari
+Estatua de Yavanna Kementari
+Nienna
+
+
+
+
+
+
+
+
+
+
+Arbusto Silvestre
+Arbusto Exótico
+Arbusto En Punta
+Arbusto Floral
+Laurelin
+Telperion 
+Florcitas
+Mapa
+Mapa (Newbies)
+Caballito de mar
+Armadura de las Sombras (E/G-M/H)
+Armadura de Sacerdote del Mal  
+Armadura de Sacerdote del Mal (Enano/Gnomo)
+Armadura de Sacerdote del Mal  
+Armadura de Sacerdote del Mal (Enano/Gnomo)
+Armadura de Caballero Oscuro
+Armadura de Guerrero Oscuro (Enano/Gnomo)
+Túnica de Maga Oscura
+Túnica de Mago Oscuro
+Túnica de Mago Oscuro
+Armadura de Sacerdote del Mal  
+Armadura de Sacerdote del Mal (Enano/Gnomo)
+Armadura de Sacerdote del Mal  
+Armadura de Sacerdote del Mal (Enano/Gnomo)
+Armadura de Caballero Oscuro
+Armadura de Guerrero Oscuro
+Túnica de Maga Oscura
+Túnica de Mago Oscuro
+Túnica de Mago Oscuro
+Armadura de Sacerdote del Mal  
+Armadura de Sacerdote del Mal (Enano/Gnomo)
+Armadura de Sacerdote del Mal  
+Armadura de Sacerdote del Mal (Enano/Gnomo)
+Armadura de Caballero Oscuro
+Armadura de Guerrero Oscuro
+Túnica de Maga Oscura
+Túnica de Mago Oscuro
+Túnica de Mago Oscuro
+Armadura de Sacerdote del Mal  
+Armadura de Sacerdote del Mal (Enano/Gnomo)
+Armadura de Sacerdote del Mal  
+Armadura de Sacerdote del Mal (Enano/Gnomo)
+Armadura de Caballero Oscuro
+Armadura de Guerrero Oscuro
+Túnica de Maga Oscura
+Túnica de Mago Oscuro
+Túnica de Mago Oscuro
+Armadura de Sacerdote del Mal  
+Armadura de Sacerdote del Mal (Enano/Gnomo)
+Armadura de Sacerdote del Mal  
+Armadura de Sacerdote del Mal (Enano/Gnomo)
+Armadura de Caballero Oscuro
+Armadura de Guerrero Oscuro
+Túnica de Maga Oscura
+Túnica de Mago Oscuro
+Túnica de Mago Oscuro
+Sacerdote del Imperio
+Túnica de Mago del Imperio (Enano/Gnomo)
+Sacerdote del Imperio
+Túnica de Mago del Imperio (Enano/Gnomo)
+Armadura de Caballero Real
+Armadura de Guerrero Real (Enano/Gnomo)
+Túnica de Maga del Imperio
+Túnica de Mago del Imperio
+Túnica de Mago del Imperio
+Sacerdote del Imperio
+Túnica de Mago del Imperio (Enano/Gnomo)
+Sacerdote del Imperio
+Túnica de Mago del Imperio (Enano/Gnomo)
+Armadura de Caballero Real
+Armadura de Guerrero Real (Enano/Gnomo)
+Túnica de Maga del Imperio
+Túnica de Mago del Imperio
+Túnica de Mago del Imperio
+Sacerdote del Imperio
+Túnica de Mago del Imperio (Enano/Gnomo)
+Sacerdote del Imperio
+Túnica de Mago del Imperio (Enano/Gnomo)
+Armadura de Caballero Real
+Armadura de Guerrero Real (Enano/Gnomo)
+Túnica de Maga del Imperio
+Túnica de Mago del Imperio
+Túnica de Mago del Imperio
+Sacerdote del Imperio
+Túnica de Mago del Imperio (Enano/Gnomo)
+Sacerdote del Imperio
+Túnica de Mago del Imperio (Enano/Gnomo)
+Armadura de Caballero Real
+Armadura de Guerrero Real (Enano/Gnomo)
+Túnica de Maga del Imperio
+Túnica de Mago del Imperio
+Túnica de Mago del Imperio
+Sacerdote del Imperio
+Túnica de Mago del Imperio (Enano/Gnomo)
+Sacerdote del Imperio
+Túnica de Mago del Imperio (Enano/Gnomo)
+Armadura de Caballero Real
+Armadura de Guerrero Real (Enano/Gnomo)
+Túnica de Maga del Imperio
+Túnica de Mago del Imperio
+Túnica de Mago del Imperio
+
+
+Trono
+Invocar Mascotas
+Flecha de tejo
+Túnica de Gloria
+Espada de plata
+Espada de plata
+Guerrero de las Tinieblas
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+Arbol
+
+Anillo de Azufre
+
+Restos de Criatura
+Cruz de Roble
+Cofre de Hierro
+Cofre de Plata
+Cofre de Oro
+Pergamino a Nix
+Pergamino a Ullathorpe
+Mazo Divino
+Mazo de Hierro
+Escudo de Madera
+Armadura de Placas Roja (H/E/EO-M/H)
+Armadura de Placas Roja (E/G-M/H)
+Armadura de Placas Violeta (H/E/EO-M/H)
+Armadura de Placas Violeta (E/G-M/H)
+Armadura de Placas Especial (H/E/EO-M/H)
+Armadura de Placas Especial (E/G-M/H)
+Armadura de Placas Especial (E/G-M/H)
+Armadura de Placas Titánica (H/E/EO-M/H)
+Armadura de Placas Titánica (E/G-M/H)
+Armadura de Asesino (E/G-M/H)
+Túnica Roja (E/G-M/H)
+Túnica Azul (E/G-M/H)
+Túnica Gris (H/E/EO-M/H)
+Vestido de Celebración (H/E-M)
+Vestimenta de Gnomo (G-M/H)
+Vestimenta de Enano (E-M/H)
+Vestimenta de Elfo (E-M/H)
+Vestimenta de Humano (H-M/H)
+Túnica de Mago (H/E/EO-M/H)
+Túnica de Mago (E/G-M/H)
+Túnica de Druida (H/E-M/H)
+Túnica de Druida (EO-M/H)
+Túnica de Druida (E/G-M/H)
+Túnica de Bardo (H/E/EO-M/H)
+Túnica de Bardo (E/G-M/H)
+Túnica de Clérigo (H/E/EO-M/H)
+Túnica de Clérigo (E/G-M/H)
+Vestimenta de Guerrero (H/E/EO-M/H)
+Vestimenta de Guerrero (E/G-M/H)
+Vestimenta de Paladín (H/E/EO-M/H)
+Vestimenta de Paladín (E/G-M/H)
+Vestimenta de Iniciado (H/E-M/H)
+Vestimenta de Iniciado (EO-M/H)
+Vestimenta de Iniciado (H/E-M/H)
+Vestimenta de Iniciado (EO-M/H)
+Vestimenta de Iniciada (H/E-M)
+Vestimenta de Iniciada (H/E-M)
+Vestimenta de Iniciada (H/E-M)
+Vestimenta de Iniciada (EO-M)
+Vestimenta de Iniciada (EO-M)
+Vestimenta de Iniciada (EO-M)
+Vestimenta de Iniciado (E/G-M/H)
+Vestimenta de Campesino (H/E/EO-M/H)
+Vestimenta Simple (E/G-M/H)
+Vestimenta Simple (E/G-M)
+Vestimenta Simple (E/G-M)
+Vestimenta Simple (H/E-M)
+Vestimenta Simple (EO-M)
+Vestimenta de Aldeana (EO-M)
+Vestido Calipso (E/G-M)
+Vestido Verde (E/G-M)
+Vestido Gris (E/G-M)
+Vestido con Capa (E/G-M)
+Vestido con Capa (E/G-M)
+Vestido de Alcurnia (EO-M)
+Túnica de Rebelde (H/E/EO-M/H)
+Túnica Borgoña (H/E/EO-M/H)
+Túnica Agreste (H/E-M/H)
+Túnica Agreste (EO-M/H)
+Túnica Especial (H/E/EO-M/H)
+Túnica Especial (E/G-M/H)
+Vestimenta de Viajero (H/E-M)
+Vestimenta de Viajero (EO-M)
+Vestimenta de Viajero (E/G-M/H)
+Vestido de Gloria (H/E-M)
+Vestido de Gloria (EO-M)
+Vestido de Gloria (H/E-M)
+Vestido de Gala (EO-M)
+Vestido de Gala (H/E-M)
+Vestido de Gala (H/E-M)
+Vestido de Gala (EO-M)
+Vestimenta de Cazador (E/G-M/H)
+Vestimenta de Cazador (H/E/EO-M/H)
+Túnica Especial (E/G-M/H)
+Túnica Especial (H/E/EO-M/H)
+Runa
+Runa
+Runa
+Runa
+Runa
+Runa
+Runa
+Runa
+Runa
+Runa
+Runa
+Tijeras de sastre
+Hoz
+Ovillo de lino
+Seda
+Leña de roble
+Reliquia de liderazgo
+Reliquia de liderazgo
+Reliquia de liderazgo
+Colmillo de viuda
+Colmillo de araña
+Fragmento de Magma
+Piel de pinguino
+Lana
+Tijeras de esquilar
+Vestimenta de Elfo Oscuro (EO-M/H)
+Si deseas que no aparezca mas este mensaje puedes hacerlo desde opciones.
+Para utilizar el D&D debes hacerle click derecho a un item y arrastrarlo.
+Puedes luchar contra tus amigos utilizando los retos (F5).
+Para estar informado de las novedades entra a www.aotds.com.ar.
+Cuando trabajas ten cuidado con el centinela. Te puede costar tu cabeza. 
+Puedes ver el mapa en pantalla si tienes un mapa precionando la letra "Q".
+Para ver los cursores de TDS lo tienes que activar desde opciones.
+Desde opciones puedes cambiar la calidad de la imagen cuando sacas screens con F12.
+Con el comando /PING podes saber el "lag" que tienes.
+Puedes entrenar con tus amigos utilizando el systema de party con F6.
+Puedes obtener más información en el manual que lo podes encontrar en www.aotds.com.ar.
+Puedes vender tus items soltando tus items sobre el vendedor con el Drag and drop.
+Puedes ver el mapa en pantalla si tiene un mapa precionando la letra "Q".
+Si deseas que no aparezca mas este mensaje puedes hacerlo desde opciones.
+Pulsado F8 ingresas en el MODO TRABAJO para poder talar,pescar,minar,etc.

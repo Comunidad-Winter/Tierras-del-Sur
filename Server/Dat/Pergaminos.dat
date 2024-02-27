@@ -1,0 +1,14 @@
+[INIT]
+NumeroPergaminos=2
+
+[PERGAMINO1] 'Pergamino a Ullathorpe
+X=127
+Y=128
+MAPA=128
+CONTINENTE=0
+
+[PERGAMINO2] ' Pergamino a Nix
+X=92
+Y=107
+MAPA=299
+CONTINENTE=0

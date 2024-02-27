@@ -1,0 +1,9 @@
+[INIT]
+NumLines=5
+
+[Help]
+Line1=* Reglamento del juego: https://tierrasdelsur.cc/reglamento.html
+Line2=* Manual del juego: https://tierrasdelsur.cc/manual.html  
+Line3=* Si estas muerto, busca un Sacerdote en la ciudad, el te resucitara.
+Line4=* Podes consultas a un GAME MASTER. Usa el comando /GM y te responderan a tu mail.
+Line5=* Denunciar a un usuario es mas facil. Utiliza /DENUNCIAR seguido del nombre del personaje y que acto ilegal esta cometiendo.

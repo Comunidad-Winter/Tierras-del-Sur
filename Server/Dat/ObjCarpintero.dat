@@ -1,0 +1,74 @@
+[INIT]
+NumObjs=24
+
+[Obj1] ' Silla
+Index=168
+
+[Obj2] ' Fragata
+Index=474
+
+[Obj3] ' Fragata reforzada
+Index=475
+
+[Obj4] ' Fragata guerra
+Index=476
+
+[Obj5] ' Arco simple
+Index=478
+
+[Obj6] ' Arco compuesto
+Index=479
+
+[Obj7] ' Flecha
+Index=480
+
+[Obj8] 'Tambor
+Index=362
+
+[Obj9] 'Flauta Mágica
+Index=540
+
+[Obj10] 'Flecha envenenada
+Index=551
+
+[Obj11] 'Flecha de tejo
+Index=828
+
+[Obj12] 'Flecha incendiaria
+Index=553
+
+[Obj13] 'Mueble 
+Index=167
+
+[Obj14] 'Arco simple reforzado
+Index=626
+
+[Obj15] 'Arco compuesto reforzado
+Index=627
+
+[Obj16] 'Arco de Cazador
+Index=628
+
+[Obj17] 'Laúd Mágico
+Index=147
+
+[Obj18] 'Vara engarzada
+Index=623
+
+[Obj19] 'Vara de fresno
+Index=625
+
+[Obj20] 'Laúd Mágico +1
+Index=643
+
+[Obj21] 'Cruz de Madera
+Index=149
+
+[Obj22] 'Garrote
+Index=398
+
+[Obj23] 'Baston nudoso
+Index=624
+
+[Obj24] 'Cruz de Tejo
+Index=862
